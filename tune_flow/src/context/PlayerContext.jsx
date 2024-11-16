@@ -10,7 +10,7 @@ const PlayerContextProvider = (props)=>{
      const seekBg=useRef();
      const seekBar=useRef();
 
-     const url= 'http://localhost:5000';
+     const url= 'https://tune-flow-full-stack.onrender.com';
      const [songsData, setSongsData] =useState([]);
      const [albumsData, setAlbumsData] = useState([]);
 
