@@ -9,7 +9,7 @@ import ListAlbum from "./pages/ListAlbum";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 
-export const url='https://tune-flow-full-stack.onrender.com'
+export const url='http://localhost:5000'
 
 function App() {
   return (
